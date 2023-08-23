@@ -5,7 +5,7 @@ const About = () => {
     <main className='About'>
       <h2>About Us</h2>
       <p style={{marginTop:'2rem'}} > 
-        I am Dhinakaran Saravanan, currently pursuing react.js
+        I am Dhinakaran Saravanan, completed react.js
       </p>      
     </main>
   )
